@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/siralim-planner/static/css/main.4716a0c3.chunk.css",
-    "main.js": "/siralim-planner/static/js/main.942beb9f.chunk.js",
-    "main.js.map": "/siralim-planner/static/js/main.942beb9f.chunk.js.map",
+    "main.js": "/siralim-planner/static/js/main.40b13c51.chunk.js",
+    "main.js.map": "/siralim-planner/static/js/main.40b13c51.chunk.js.map",
     "runtime-main.js": "/siralim-planner/static/js/runtime-main.c7d7eadf.js",
     "runtime-main.js.map": "/siralim-planner/static/js/runtime-main.c7d7eadf.js.map",
     "static/js/2.8621a5a4.chunk.js": "/siralim-planner/static/js/2.8621a5a4.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c7d7eadf.js",
     "static/js/2.8621a5a4.chunk.js",
     "static/css/main.4716a0c3.chunk.css",
-    "static/js/main.942beb9f.chunk.js"
+    "static/js/main.40b13c51.chunk.js"
   ]
 }
